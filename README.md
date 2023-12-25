@@ -1,2 +1,1 @@
-# Java-api-CorsConfiguration
-CORS Config Java
+FitnessRadar Java API
